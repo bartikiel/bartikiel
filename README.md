@@ -1,6 +1,6 @@
 - 👋 Hello, I’m Bartosz! 
 - 👀 I’m interested in IT- especialy programming, rollerblading and fitness.
-- 🌱 I’m currently learning front-end technologies like HTML/CSS/JS.
+- 🌱 I’m currently learning front-end technologies like HTML/CSS/JS, back-end technologies like Java and Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me by mail: bartikiel@gmail.com
 
